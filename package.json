@@ -12,9 +12,9 @@
   },
   "devDependencies": {
     "@actions/core": "^3.0.1",
-    "@types/node": "^26.0.0",
+    "@types/node": "^26.1.2",
     "@vercel/ncc": "^0.44.1",
-    "marked": "^18.0.5",
+    "marked": "^18.0.7",
     "typescript": "^6.0.3"
   }
 }
